@@ -1,0 +1,9 @@
+C:\Users\rviquez\source\repos\RestFramework\RestFramework\bin\Debug\netstandard2.0\RestFramework.deps.json
+C:\Users\rviquez\source\repos\RestFramework\RestFramework\bin\Debug\netstandard2.0\RestFramework.dll
+C:\Users\rviquez\source\repos\RestFramework\RestFramework\bin\Debug\netstandard2.0\RestFramework.pdb
+C:\Users\rviquez\source\repos\RestFramework\RestFramework\obj\Debug\netstandard2.0\RestFramework.csprojAssemblyReference.cache
+C:\Users\rviquez\source\repos\RestFramework\RestFramework\obj\Debug\netstandard2.0\RestFramework.AssemblyInfoInputs.cache
+C:\Users\rviquez\source\repos\RestFramework\RestFramework\obj\Debug\netstandard2.0\RestFramework.AssemblyInfo.cs
+C:\Users\rviquez\source\repos\RestFramework\RestFramework\obj\Debug\netstandard2.0\RestFramework.csproj.CoreCompileInputs.cache
+C:\Users\rviquez\source\repos\RestFramework\RestFramework\obj\Debug\netstandard2.0\RestFramework.dll
+C:\Users\rviquez\source\repos\RestFramework\RestFramework\obj\Debug\netstandard2.0\RestFramework.pdb

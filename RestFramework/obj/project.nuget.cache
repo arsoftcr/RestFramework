@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bOAojfXi411oZnKEoGZPGm7DDPHYi1CXouOb/Qx7mLkOEdNDs7clmHauh+O2VPphyZ6H0ZjKUFuSLBKEE2Ug+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rviquez\\source\\repos\\RestFramework\\RestFramework\\RestFramework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rviquez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rviquez\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\rviquez\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
